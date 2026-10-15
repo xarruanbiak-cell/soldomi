@@ -14,4 +14,4 @@ git clone https://github.com/xarruanbiak-cell/soldomi.git
 
 ## Penulis
 xarruanbiak-cell
-
+tujuan belajar github untuk menambah wawasan tentang programming
