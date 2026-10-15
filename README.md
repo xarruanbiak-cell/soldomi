@@ -15,3 +15,5 @@ git clone https://github.com/xarruanbiak-cell/soldomi.git
 ## Penulis
 xarruanbiak-cell
 tujuan belajar github untuk menambah wawasan tentang programming
+## Tujuan belajar
+Memahami alur kerja Git dan GitHub sampai bisa berkontribusi ke proyek lain.
